@@ -1,5 +1,9 @@
 # Ecommerce_Purchase_Case_Study
 
+## 🚀 Open in Google Colab
+
+[Click here to Open Notebook](https://colab.research.google.com/github/rakshandaphatak/Ecommerce_Purchase_Case_Study/blob/main/Ecommerce_Purchase_Case_Study.ipynb)
+
 ## 🧮 Methodology  
 1. Import necessary libraries (e.g., pandas, numpy, matplotlib/seaborn for visualisations).  
 2. Load dataset and perform initial checks (shape, missing values, types).  
